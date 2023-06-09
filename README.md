@@ -13,7 +13,7 @@
 Клонировать репозиторий и перейти в него в командной строке: 
 
 ```
-git clone https://github.com/MargoNederova/api_final_yatube.git
+git clone https://github.com/marg0xa/api_final_yatube.git
 ```
 
 ```
